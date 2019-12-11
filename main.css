@@ -1,0 +1,24 @@
+#game {
+    border: 10px solid black;
+
+    width: 1315px;
+    height: 650px;
+
+    background-color: blanchedalmond;
+}
+
+body {
+    height: 100vh;
+    margin: none;
+    background: linear-gradient(red, white, blue, black);
+}
+
+.START {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+audio {
+    display: none;
+}
